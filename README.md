@@ -9,8 +9,8 @@
     
 ## 3 规范详情
 
-    * [HTML编码规范](html-style-guide.md)
-    * [Sass编码规范](sass-code-style.md)
+- [HTML编码规范](html-style-guide.md)
+- [Sass编码规范](sass-code-style.md)
 
 参考[百度前端技术规范](https://github.com/ecomfe/spec)并适当删减.
 		
