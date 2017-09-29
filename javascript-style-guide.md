@@ -2,6 +2,7 @@
 
 ## JS没有什么硬性的写法规范, 主要还是缩进, 命名之类的, 只要编辑器的风格统一即可
 
+建议学习[Airbnb javascript](https://github.com/airbnb/javascript)规范.
 
 ## 命名
 
