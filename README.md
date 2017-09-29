@@ -11,6 +11,7 @@
 
 - [HTML编码规范](html-style-guide.md)
 - [Sass编码规范](sass-code-style.md)
+- [Javascript编码规范](javascript-style-guide.md)
 
 参考[百度前端技术规范](https://github.com/ecomfe/spec)并适当删减.
 		
